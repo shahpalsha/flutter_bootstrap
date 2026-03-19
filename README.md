@@ -34,7 +34,7 @@ Add dependency in your pubspec.yaml
 yaml
 dependencies:
   flutter_bootstrap:
-    path: ../flutter_bootstrap
+    path: https://github.com/Excelsior-Technologies-Community/flutter_bootstrap/tree/stage
 ```
 Then run:
 ```
